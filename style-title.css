@@ -1,0 +1,29 @@
+.samson {
+  color: blue;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 500ox;
+
+  }
+
+  span {
+  color: red;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 500ox;
+  }
+
+  
+.fan {
+  background-color: red;
+  height: 40px;
+  
+}
+
+.gam {
+  background-color: rgb(253, 241, 232);
+  display: block;
+  padding-top: 2px;
+}
